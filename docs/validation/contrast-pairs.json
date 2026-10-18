@@ -1,0 +1,35 @@
+{
+  "scope": "Calculated solid CSS token pairs; gradients and canvas text are not measured by this file.",
+  "pairs": [
+    {
+      "pair": "Main text / page",
+      "foreground": "#f3f1e8",
+      "background": "#171b1a",
+      "ratio": 15.36
+    },
+    {
+      "pair": "Muted text / page",
+      "foreground": "#b5bdb2",
+      "background": "#171b1a",
+      "ratio": 9.01
+    },
+    {
+      "pair": "Primary button label / fill",
+      "foreground": "#171b1a",
+      "background": "#ff915c",
+      "ratio": 7.83
+    },
+    {
+      "pair": "Selected pace outline / fill",
+      "foreground": "#b5bdb2",
+      "background": "#303833",
+      "ratio": 6.26
+    },
+    {
+      "pair": "Focus ring / page",
+      "foreground": "#ffad84",
+      "background": "#171b1a",
+      "ratio": 9.57
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "scanner": "axe-core via @axe-core/playwright",
+  "scope": "WCAG 2 A/AA, 2.1 AA, 2.2 AA tags in four rendered states; not a full accessibility certification.",
+  "violations": {
+    "desktop": [],
+    "mobile": [],
+    "paused": [],
+    "results": []
+  }
+}

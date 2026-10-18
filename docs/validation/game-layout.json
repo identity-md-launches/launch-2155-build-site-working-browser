@@ -1,0 +1,208 @@
+{
+  "checks": [
+    {
+      "viewport": "800x600",
+      "passed": true,
+      "metrics": {
+        "mapInstrumentOverlap": 0,
+        "viewport": {
+          "width": 800,
+          "height": 600
+        },
+        "gameHeight": 600,
+        "scrollWidth": 800,
+        "buttons": [
+          {
+            "name": "Steer left",
+            "x": 24,
+            "y": 516,
+            "width": 60,
+            "height": 60,
+            "bottom": 576,
+            "right": 84
+          },
+          {
+            "name": "Steer right",
+            "x": 94,
+            "y": 516,
+            "width": 60,
+            "height": 60,
+            "bottom": 576,
+            "right": 154
+          },
+          {
+            "name": "Brake",
+            "x": 646,
+            "y": 511,
+            "width": 60,
+            "height": 65,
+            "bottom": 576,
+            "right": 706
+          },
+          {
+            "name": "Boost",
+            "x": 716,
+            "y": 511,
+            "width": 60,
+            "height": 65,
+            "bottom": 576,
+            "right": 776
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "844x390",
+      "passed": true,
+      "metrics": {
+        "mapInstrumentOverlap": 0,
+        "viewport": {
+          "width": 844,
+          "height": 390
+        },
+        "gameHeight": 390,
+        "scrollWidth": 844,
+        "buttons": [
+          {
+            "name": "Steer left",
+            "x": 32,
+            "y": 302,
+            "width": 64,
+            "height": 64,
+            "bottom": 366,
+            "right": 96
+          },
+          {
+            "name": "Steer right",
+            "x": 108,
+            "y": 302,
+            "width": 64,
+            "height": 64,
+            "bottom": 366,
+            "right": 172
+          },
+          {
+            "name": "Brake",
+            "x": 672,
+            "y": 302,
+            "width": 64,
+            "height": 64,
+            "bottom": 366,
+            "right": 736
+          },
+          {
+            "name": "Boost",
+            "x": 748,
+            "y": 302,
+            "width": 64,
+            "height": 64,
+            "bottom": 366,
+            "right": 812
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "390x844",
+      "passed": true,
+      "metrics": {
+        "mapInstrumentOverlap": 0,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "gameHeight": 844,
+        "scrollWidth": 390,
+        "buttons": [
+          {
+            "name": "Steer left",
+            "x": 24,
+            "y": 760,
+            "width": 52,
+            "height": 60,
+            "bottom": 820,
+            "right": 76
+          },
+          {
+            "name": "Steer right",
+            "x": 84,
+            "y": 760,
+            "width": 52,
+            "height": 60,
+            "bottom": 820,
+            "right": 136
+          },
+          {
+            "name": "Brake",
+            "x": 254,
+            "y": 759,
+            "width": 52,
+            "height": 61,
+            "bottom": 820,
+            "right": 306
+          },
+          {
+            "name": "Boost",
+            "x": 314,
+            "y": 759,
+            "width": 52,
+            "height": 61,
+            "bottom": 820,
+            "right": 366
+          }
+        ]
+      }
+    },
+    {
+      "viewport": "320x740",
+      "passed": true,
+      "metrics": {
+        "mapInstrumentOverlap": 0,
+        "viewport": {
+          "width": 320,
+          "height": 740
+        },
+        "gameHeight": 740,
+        "scrollWidth": 320,
+        "buttons": [
+          {
+            "name": "Steer left",
+            "x": 16,
+            "y": 656,
+            "width": 46,
+            "height": 60,
+            "bottom": 716,
+            "right": 62
+          },
+          {
+            "name": "Steer right",
+            "x": 68,
+            "y": 656,
+            "width": 46,
+            "height": 60,
+            "bottom": 716,
+            "right": 114
+          },
+          {
+            "name": "Brake",
+            "x": 206,
+            "y": 656,
+            "width": 46,
+            "height": 60,
+            "bottom": 716,
+            "right": 252
+          },
+          {
+            "name": "Boost",
+            "x": 258,
+            "y": 656,
+            "width": 46,
+            "height": 60,
+            "bottom": 716,
+            "right": 304
+          }
+        ]
+      }
+    }
+  ]
+}

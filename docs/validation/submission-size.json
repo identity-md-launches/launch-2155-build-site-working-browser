@@ -1,0 +1,9 @@
+{
+  "method": "Sum of all files in the Git submission candidate set, including this report. Added allowance is conservative packaging overhead, not an actual git-bundle measurement.",
+  "fileCount": 66,
+  "rawFileBytes": 2793005,
+  "metadataAllowanceBytes": 133120,
+  "conservativeTotalBytes": 2926125,
+  "limitBytes": 8388608,
+  "withinBudget": true
+}

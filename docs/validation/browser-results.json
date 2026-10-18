@@ -1,0 +1,148 @@
+{
+  "checks": [
+    {
+      "name": "metadata and local share assets",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "actual WebGL rendering and loaded fonts",
+      "passed": true,
+      "details": {
+        "canvas": true,
+        "font": true,
+        "width": 1440
+      }
+    },
+    {
+      "name": "desktop accessibility",
+      "passed": true,
+      "details": "25 axe rules passed; no violations in scanned state."
+    },
+    {
+      "name": "opening layout 1440 \u00d7 900",
+      "passed": true,
+      "details": {
+        "scrollWidth": 1440,
+        "viewport": 1440,
+        "buttonBottom": 627.46875,
+        "headingBottom": 351.46875,
+        "canvasHeight": 900
+      }
+    },
+    {
+      "name": "opening layout 800 \u00d7 900",
+      "passed": true,
+      "details": {
+        "scrollWidth": 800,
+        "viewport": 800,
+        "buttonBottom": 620.109375,
+        "headingBottom": 344.109375,
+        "canvasHeight": 900
+      }
+    },
+    {
+      "name": "opening layout 390 \u00d7 844",
+      "passed": true,
+      "details": {
+        "scrollWidth": 390,
+        "viewport": 390,
+        "buttonBottom": 355,
+        "headingBottom": 132,
+        "canvasHeight": 900
+      }
+    },
+    {
+      "name": "opening layout 320 \u00d7 740",
+      "passed": true,
+      "details": {
+        "scrollWidth": 320,
+        "viewport": 320,
+        "buttonBottom": 395,
+        "headingBottom": 172,
+        "canvasHeight": 860
+      }
+    },
+    {
+      "name": "mobile accessibility",
+      "passed": true,
+      "details": "25 axe rules passed; no violations in scanned state."
+    },
+    {
+      "name": "pace, paint, records, keyboard modal and focus return",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "manual throttle, brake, steering, boost, pause and resume",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "touch pointer hold and release, including brake",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "pause screen accessibility and restart",
+      "passed": true,
+      "details": "13 axe rules passed; no violations in scanned state."
+    },
+    {
+      "name": "reduced motion preferences and 200% text enlargement reflow",
+      "passed": true,
+      "details": "Text enlargement is an emulation, not native browser zoom."
+    },
+    {
+      "name": "three-lap race completion, results, replay and record persistence",
+      "passed": true,
+      "details": {
+        "elapsed": "1:13.07",
+        "laps": 3
+      }
+    },
+    {
+      "name": "backgrounding pauses the race",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "unavailable local storage does not block play",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "WebGL failure provides a useful recovery state",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "no script errors, missing resources or external runtime requests",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "WebKit mobile: real 3D start, drive, pause, help, resume and restart",
+      "passed": true,
+      "details": ""
+    }
+  ],
+  "errors": [],
+  "limitations": [],
+  "screenshots": [
+    "desktop-1440.jpg",
+    "mobile-390.jpg",
+    "pause-desktop.jpg",
+    "mobile-320.jpg",
+    "race-390.jpg",
+    "results-800.jpg",
+    "text-200-percent.jpg",
+    "webkit-390.jpg"
+  ],
+  "date": "2026-10-18",
+  "notes": [
+    "Paths are relative to this report.",
+    "After this complete gameplay run, CSS-only tablet/landscape layout corrections were checked separately by validate-layout.mjs and taste@1; simulation and input source did not change.",
+    "Worker-run evidence, not independent certification."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "viewport": "800x600",
+  "time": "1:13.58",
+  "laps": [
+    "0:25.13",
+    "0:24.22",
+    "0:24.22"
+  ],
+  "position": "1 / 4",
+  "boostDepletionSpeedCheck": true,
+  "scriptErrors": [],
+  "method": "Real keyboard events on the final production export; no state override."
+}
